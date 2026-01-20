@@ -18,5 +18,8 @@
     display:inline-block;
     background-color: rgb(196, 238, 255);
     color: rgb(223, 24, 24);
-    padding: 15px;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
 }
